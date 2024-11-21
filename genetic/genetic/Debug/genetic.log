@@ -1,0 +1,11 @@
+﻿  genetic_graph.cpp
+C:\Users\Микаэль\source\repos\genetic\genetic\genetic_graph.cpp(91,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Микаэль\source\repos\genetic\genetic\genetic_graph.cpp(211,50): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Микаэль\source\repos\genetic\genetic\genetic_graph.cpp(227,76): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Микаэль\source\repos\genetic\genetic\genetic_graph.cpp(252,38): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Микаэль\source\repos\genetic\genetic\genetic_graph.cpp(313,58): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Микаэль\source\repos\genetic\genetic\genetic_graph.cpp(313,43): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Микаэль\source\repos\genetic\genetic\genetic_graph.cpp(314,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Микаэль\source\repos\genetic\genetic\genetic_graph.cpp(332,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Микаэль\source\repos\genetic\genetic\genetic_graph.cpp(342,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  genetic.vcxproj -> C:\Users\Микаэль\source\repos\genetic\Debug\genetic.exe
