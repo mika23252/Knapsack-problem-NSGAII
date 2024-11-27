@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Study\mathematical_modeling\0-1_Knapsack_Problem\main.cpp(49,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Study\mathematical_modeling\0-1_Knapsack_Problem\main.cpp(49,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Study\mathematical_modeling\0-1_Knapsack_Problem\main.cpp(55,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Study\mathematical_modeling\0-1_Knapsack_Problem\main.cpp(55,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  0-1_Knapsack_Problem.vcxproj -> D:\Study\mathematical_modeling\0-1_Knapsack_Problem\x64\Debug\0-1_Knapsack_Problem.exe
